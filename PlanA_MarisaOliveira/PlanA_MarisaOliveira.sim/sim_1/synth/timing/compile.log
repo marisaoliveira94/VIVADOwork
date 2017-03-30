@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marisa/PlanA_MarisaOliveira/PlanA_MarisaOliveira.sim/sim_1/synth/timing/simulation_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module imageGenerator
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marisa/PlanA_MarisaOliveira/PlanA_MarisaOliveira.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marisa/PlanA_MarisaOliveira/PlanA_MarisaOliveira.sim/sim_1/synth/timing/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+WARNING: [VRFC 10-1195] overwriting previous definition of module glbl [C:/Users/marisa/PlanA_MarisaOliveira/PlanA_MarisaOliveira.sim/sim_1/synth/timing/glbl.v:6]

@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marisa/PlanA_MarisaOliveira/PlanA_MarisaOliveira.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marisa/PlanA_MarisaOliveira/PlanA_MarisaOliveira.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marisa/PlanA_MarisaOliveira/PlanA_MarisaOliveira.srcs/sources_1/new/imageGenerator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module imageGenerator
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marisa/PlanA_MarisaOliveira/PlanA_MarisaOliveira.srcs/sources_1/ipshared/xilinx.com/clk_gen_v1_0/45a43e9d/hdl/clk_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marisa/PlanA_MarisaOliveira/PlanA_MarisaOliveira.srcs/sources_1/bd/clockInitial/ip/clockInitial_clk_gen_0_0/sim/clockInitial_clk_gen_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clockInitial_clk_gen_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marisa/PlanA_MarisaOliveira/PlanA_MarisaOliveira.srcs/sources_1/bd/clockInitial/hdl/clockInitial.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clockInitial
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marisa/PlanA_MarisaOliveira/PlanA_MarisaOliveira.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marisa/PlanA_MarisaOliveira/PlanA_MarisaOliveira.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marisa/PlanA_MarisaOliveira/PlanA_MarisaOliveira.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

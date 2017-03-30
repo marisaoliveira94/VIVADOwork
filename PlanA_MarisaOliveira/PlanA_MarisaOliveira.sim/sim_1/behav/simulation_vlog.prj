@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../PlanA_MarisaOliveira.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0_clk_wiz.v"
+verilog xil_defaultlib  "../../../PlanA_MarisaOliveira.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0.v"
+verilog xil_defaultlib  "../../../PlanA_MarisaOliveira.srcs/sources_1/new/imageGenerator.v"
+verilog xil_defaultlib  "../../../PlanA_MarisaOliveira.srcs/sources_1/ipshared/xilinx.com/clk_gen_v1_0/45a43e9d/hdl/clk_gen.v"
+verilog xil_defaultlib  "../../../PlanA_MarisaOliveira.srcs/sources_1/bd/clockInitial/ip/clockInitial_clk_gen_0_0/sim/clockInitial_clk_gen_0_0.v"
+verilog xil_defaultlib  "../../../PlanA_MarisaOliveira.srcs/sources_1/bd/clockInitial/hdl/clockInitial.v"
+verilog xil_defaultlib  "../../../PlanA_MarisaOliveira.srcs/sources_1/new/top.v"
+verilog xil_defaultlib  "../../../PlanA_MarisaOliveira.srcs/sim_1/new/simulation.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
